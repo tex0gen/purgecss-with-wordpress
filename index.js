@@ -18,6 +18,7 @@ module.exports = {
     'wp-caption-text',
     'screen-reader-text',
     'comment-list',
+    'sub-menu',
   ],
   whitelistPatterns: [
     /^search(-.*)?$/,
